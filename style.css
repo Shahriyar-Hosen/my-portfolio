@@ -107,7 +107,6 @@ body{
     background-repeat: no-repeat;
     background-size: 20%;
     background-position: left;
-
 }
 .thard-section{
     margin-left: 10%;
@@ -120,5 +119,18 @@ body{
 .love-program{
     margin-left: 10%;
     font-size: 20px;
-    padding-top: 15%;
+    padding-top: 10%;
+}
+.bg-sheap-2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: right;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.love-program-2{
+    margin-right: 10%;
+    font-size: 20px;
+    padding-top: 9%;
 }
