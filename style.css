@@ -1,0 +1,50 @@
+body{
+      font-family: 'Poppins', sans-serif;
+}
+.font-Luxurious-Roman{
+    font-family: 'Luxurious Roman', cursive;
+}
+.font-Poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.flexible-box{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.color-tometo{
+    color: tomato;
+}
+.head-section{
+    margin: 5%;
+}
+.header-text{
+    margin-left: 5%;
+    margin-bottom: 25px;
+}
+.header-text h1{
+    font-size: 40px;
+    padding-left: 3%;
+    border-left: 5px groove tomato;
+    border-radius: 5px;
+}
+.max-width{
+    max-width: 500px;
+}
+.max-width img{
+    padding-left: 50%;
+    width: 100%;
+}
+.all-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato, red);
+    padding: 10px 35px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 5%;
+}
+.small-p{
+    margin-top: 40px;
+}
