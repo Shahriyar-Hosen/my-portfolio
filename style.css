@@ -23,23 +23,31 @@ body{
     margin: 5%;
 }
 .header-text{
+    padding-left: 5%;
     margin-left: 5%;
     margin-bottom: 25px;
 }
 .header-text h1{
+    width: 700px;
     font-size: 40px;
     padding-left: 3%;
     border-left: 5px groove tomato;
     border-radius: 5px;
 }
+span{
+    display: block;
+}
 .header-text p{
-    color: navy;
+    width: 600px;
+    font-weight: lighter;
+    color: black;
+    font-size: 100%;
 }
 .max-width{
     max-width: 500px;
 }
 .max-width img{
-    padding-left: 50%;
+    padding-left: 90%;
     width: 100%;
 }
 .all-button{
@@ -55,8 +63,41 @@ body{
     margin-top: 40px;
 }
 .Second-section{
-    
+    width: 100%;
+    margin-top: 10%;
 }
 .Second-section h1{
     font-size: 45px;
+    text-align: center;
+}
+.mission-area{
+    margin-top: 5%;
+}
+.mission-area img{
+    width: 150px;
+}
+.bg-color-1{
+    background-color: rgb(192, 233, 250);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 10px 40px 60px white;
+    margin-left: 10%;
+    margin-right: 1%;
+    width: 30%;
+}
+.bg-color-2{
+    background-color: rgb(255, 255, 192);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 10px 40px 60px white;
+    margin-right: 1%;
+    width: 30%;
+}
+.bg-color-3{
+    background-color: rgb(252, 180, 180);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 10px 40px 60px white;
+    margin-right: 10%;
+    width: 30%;
 }
