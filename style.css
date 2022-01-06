@@ -34,7 +34,7 @@ body{
     border-left: 5px groove tomato;
     border-radius: 5px;
 }
-span{
+.head-section span{
     display: block;
 }
 .header-text p{
@@ -64,14 +64,14 @@ span{
 }
 .Second-section{
     width: 100%;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .Second-section h1{
     font-size: 45px;
     text-align: center;
 }
 .mission-area{
-    margin-top: 5%;
+    margin-top: 3%;
 }
 .mission-area img{
     width: 150px;
