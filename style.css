@@ -7,6 +7,9 @@ body{
 .font-Poppins{
     font-family: 'Poppins', sans-serif;
 }
+.font-Oswald{
+     font-family: 'Oswald', sans-serif;
+}
 .flexible-box{
     display: flex;
 }
@@ -29,6 +32,9 @@ body{
     border-left: 5px groove tomato;
     border-radius: 5px;
 }
+.header-text p{
+    color: navy;
+}
 .max-width{
     max-width: 500px;
 }
@@ -47,4 +53,10 @@ body{
 }
 .small-p{
     margin-top: 40px;
+}
+.Second-section{
+    
+}
+.Second-section h1{
+    font-size: 45px;
 }
